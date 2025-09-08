@@ -41,7 +41,7 @@ Toutes les options sont sauvegardées localement.
 
 ## 🖼️ Aperçu
 
-
+![Texte alternatif](https://raw.githubusercontent.com/Aerya/yggtorrent-bulk-downloader/refs/heads/main/YGG.png)
 
 ---
 
