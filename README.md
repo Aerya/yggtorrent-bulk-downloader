@@ -9,7 +9,7 @@ Il repère les liens du type https://www.yggtorrent.top/engine/download_torrent?
 ## 🚀 Installation
 
 1. Installer une extension userscript (ex. [Violentmonkey](https://violentmonkey.github.io/get-it/)).  
-2. Ajouter un nouveau script et coller le contenu de [`ygg-bulk.user.js`](./ygg-bulk.user.js).  
+2. Ajouter un nouveau script et coller le contenu de [ygg-bulk.user.js](https://raw.githubusercontent.com/Aerya/yggtorrent-bulk-downloader/refs/heads/main/yggbulkdl.js).  
 3. Sauvegarder.  
 
 Le script sera actif automatiquement sur les pages YggTorrent, indépendamment de leur extension.  
